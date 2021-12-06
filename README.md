@@ -4,7 +4,7 @@
 # Simple Demo With Netlify
 
 # Demo Development
-<a href="https://starter-react-dashboard.netlify.app/" target="_blank">
+<a href="https://majoo-testcase-agunglaksmana.netlify.app/" target="_blank">
     Demo Test Case
 </a>
 
